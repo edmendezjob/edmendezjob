@@ -46,6 +46,17 @@
   </a>
 </div>
 
+
+### Data & Machine Learning
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
+
+
 ### 🗄️ Databases & Querying  
 <div style="margin-bottom: 15px;">
   <a href="https://www.sql.org/" target="_blank">
@@ -53,6 +64,7 @@
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge">
+    
   </a>
 </div>
 
